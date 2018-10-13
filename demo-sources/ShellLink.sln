@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShellLink\ShellLinkTester", "ShellLink\ShellLinkTester.csproj", "{1202BE1B-9D2F-4B75-B02C-1790FECC2839}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{1202BE1B-9D2F-4B75-B02C-1790FECC2839}.Debug.ActiveCfg = Debug|.NET
+		{1202BE1B-9D2F-4B75-B02C-1790FECC2839}.Debug.Build.0 = Debug|.NET
+		{1202BE1B-9D2F-4B75-B02C-1790FECC2839}.Release.ActiveCfg = Release|.NET
+		{1202BE1B-9D2F-4B75-B02C-1790FECC2839}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
